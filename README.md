@@ -21,15 +21,11 @@ Here are some ideas to get you started:
 <h3 align="center">Python Developer | AI Enthusiast | Future AI Engineer</h3>
 
 <p align="center">
-Passionate about building real-world software using Python, Artificial Intelligence, and automation tools.
+Passionate about building real-world applications using Python, Artificial Intelligence, and automation tools.
 </p>
 
 <p align="center">
-
-<a href="https://github.com/Manik-0107">
 <img src="https://komarev.com/ghpvc/?username=Manik-0107&label=Profile%20views&color=0e75b6&style=flat" />
-</a>
-
 </p>
 
 ---
@@ -38,7 +34,7 @@ Passionate about building real-world software using Python, Artificial Intellige
 
 🎓 B.Tech Computer Science & Engineering Student  
 
-💻 Python Developer passionate about building intelligent systems  
+💻 Python Developer passionate about building intelligent software systems  
 
 🤖 Strong interest in **Artificial Intelligence and Machine Learning**
 
@@ -46,16 +42,18 @@ Passionate about building real-world software using Python, Artificial Intellige
 
 📚 Currently learning:
 
-- Machine Learning
-- Deep Learning
-- AI System Development
-- Advanced Python
+- Machine Learning  
+- Deep Learning  
+- AI System Development  
+- Advanced Python Programming  
+
+I enjoy building **automation tools, intelligent systems, and real-world Python applications**.
 
 ---
 
 # 🚀 Skills & Technologies
 
-### Programming Languages
+### Programming Language
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -86,11 +84,11 @@ Passionate about building real-world software using Python, Artificial Intellige
 
 A collection of **25+ practical Python projects** including:
 
-- GUI Applications
-- Automation Tools
-- Computer Vision Projects
-- Desktop Utilities
-- Real-world Python tools
+- GUI Applications  
+- Automation Tools  
+- Computer Vision Projects  
+- Desktop Utilities  
+- Real-world Python tools  
 
 ---
 
@@ -98,12 +96,12 @@ A collection of **25+ practical Python projects** including:
 
 A repository containing **200+ Python programs** covering:
 
-- Loops
-- Recursion
-- Pattern Printing
-- Mathematical Logic
-- Matrix Operations
-- Algorithmic thinking
+- Loops  
+- Recursion  
+- Pattern Printing  
+- Mathematical Logic  
+- Matrix Operations  
+- Algorithmic thinking  
 
 This repository demonstrates **strong programming fundamentals and logical problem-solving skills**.
 
@@ -113,14 +111,14 @@ This repository demonstrates **strong programming fundamentals and logical probl
 
 **Brain Tumor Detection using Deep Learning**
 
-A medical AI system that analyzes MRI scans to detect brain tumors using deep learning techniques.
+A medical AI system designed to detect brain tumors from MRI images using deep learning techniques.
 
 Technologies involved:
 
-- Python
-- Deep Learning
-- Computer Vision
-- Medical Image Processing
+- Python  
+- Deep Learning  
+- Computer Vision  
+- Medical Image Processing  
 
 *(Project currently under development)*
 
@@ -150,13 +148,13 @@ Technologies involved:
 
 My goal is to become a **professional Artificial Intelligence Engineer and Software Developer**, building intelligent systems that solve real-world problems.
 
-I am continuously improving my knowledge in:
+I am continuously improving my skills in:
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Science
-- Python Software Development
+- Artificial Intelligence  
+- Machine Learning  
+- Deep Learning  
+- Data Science  
+- Python Software Development  
 
 ---
 
@@ -165,19 +163,23 @@ I am continuously improving my knowledge in:
 <p align="left">
 
 <a href="https://github.com/Manik-0107">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/manik-mondal-75a61a296/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_YOUTUBE">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<a href="https://www.youtube.com/@manikmondal9559">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://x.com/manik1720">
+<img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="mailto:manikmondal0107@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
