@@ -152,16 +152,16 @@ Technologies involved:
 *(Project currently under development)*
 
 ---
-
 # 📊 GitHub Statistics
 
 <p align="center">
-  
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manik-0107&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manik-0107&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manik-0107&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manik-0107&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
+
 ---
 
 # 📈 Contribution Activity
