@@ -53,9 +53,14 @@ I enjoy building **automation tools, intelligent systems, and real-world Python 
 
 # 🚀 Skills & Technologies
 
-### Programming Language
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ---
 
@@ -67,17 +72,31 @@ I enjoy building **automation tools, intelligent systems, and real-world Python 
 
 ---
 
-### Tools & Technologies
+### Databases
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
 
 ---
 
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Kubernetes](https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge&logo=kubernetes)
+
+---
+
+### IDEs & Development Tools
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide)
+![CodeBlocks](https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge)
 # 🚀 Featured Projects
 
 ### 🚀 [Python Mini Projects](https://github.com/Manik-0107/Python-Mini-Project)
@@ -128,12 +147,11 @@ Technologies involved:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manik-0107&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=manik-0107&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manik-0107&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manik-0107&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </p>
-
 ---
 
 # 📈 Contribution Activity
